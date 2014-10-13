@@ -82,7 +82,7 @@
           <a href="#link1"><img class="img-responsive" src="images/2-4 HE.jpg" alt="Audiocinema-art"></a>
         </div>
         <div class="col-md-6">
-          <<a href="#link1"><img class="img-responsive" src="images/2-4 HE.jpg" alt="Audiocinema-art"></a>
+          <a href="#link1"><img class="img-responsive" src="images/2-4 HE.jpg" alt="Audiocinema-art"></a>
         </div>
         </div>
        <div class="row">
