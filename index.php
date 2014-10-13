@@ -33,14 +33,14 @@
 
   <body>
   
-  		<div class="row">
-	  		<div class="topmenu">
-	  			<div class="col-md-3">LOGO</div>
-	  			<div class="col-md-3 pullRight">TRGOVINE | O NAMA | SERVISI</div>
-	  			<div class="col-md-3 pullLeft">STORES | ABOUT US | SERVICES</div>
-	  			<div class="col-md-3">TRAZILICA</div>
-	  		</div>
-  		</div>
+	 <div class="topmenu">
+
+	  		<div class="col-md-3">LOGO</div>
+	  		<div class="col-md-3 pullRight">TRGOVINE | O NAMA | SERVISI</div>
+	  		<div class="col-md-3 pullLeft">STORES | ABOUT US | SERVICES</div>
+	  		<div class="col-md-3">TRAZILICA</div>
+
+  	</div>
 
 	<div id="carousel-generic" class="carousel slide" data-ride="carousel">
 	  <!-- Indicators -->
