@@ -6,6 +6,20 @@ body
 	background-color: #000;
 }
 
+.topmenu
+{
+	padding: 16px 0 2px 0;
+	width: 100%;
+	height: 60px;
+	background-color: #333333;
+	text-align: center;
+}
+
+.moveDown { padding-bottom: 30px; }
+
+.pullRight { text-align: right; }
+.pullLeft { text-align: left; }
+
 .container
 {
 	/*background-color: #fff;*/
