@@ -86,21 +86,21 @@
       </div>
       <div class="row moveDown">
       	<div class="col-md-2"></div>
-	      <div class="col-md-8">
+	      <div class="col-md-8 cent-approx">
 	          <a href="#link1"><img class="img-responsive" src="images/2-4 HE.jpg" alt="Audiocinema-art"></a>
 	      </div>
 	     <div class="col-md-2"></div>
       </div>
       <div class="row moveDown">
       	<div class="col-md-2"></div>
-	      <div class="col-md-8">
+	      <div class="col-md-8 cent-approx">
 	          <a href="#link1"><img class="img-responsive" src="images/3-4 MG.jpg" alt="Audiocinema-art"></a>
 	      </div>
 	      <div class="col-md-2"></div>
       </div>
       <div class="row moveDown">
       	<div class="col-md-2"></div>
-	      <div class="col-md-8">
+	      <div class="col-md-8 cent-approx">
 	          <a href="#link1"><img class="img-responsive" src="images/4-4 C.jpg" alt="Audiocinema-art"></a>
 	      </div>
 	     <div class="col-md-2"></div>
