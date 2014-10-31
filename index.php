@@ -78,20 +78,32 @@
 
       <!-- Three columns of text below the carousel -->
       <div class="row moveDown">
-        <div class="col-md-6">
-          <a href="#link1"><img class="img-responsive" src="images/1-4 AV.jpg" alt="Audiocinema-art"></a>
-        </div>
-        <div class="col-md-6">
-          <a href="#link1"><img class="img-responsive" src="images/2-4 HE.jpg" alt="Audiocinema-art"></a>
-        </div>
-        </div>
-       <div class="row">
-        <div class="col-md-6">
-          <a href="#link1"><img class="img-responsive" src="images/3-4 MG.jpg" alt="Audiocinema-art"></a>
-        </div>
-        <div class="col-md-6">
-          <a href="#link1"><img class="img-responsive" src="images/4-4 C.jpg" alt="Audiocinema-art"></a>
-        </div>
+      	<div class="col-md-2"></div>
+	      <div class="col-md-8 cent-approx">
+	          <a href="#link1"><img class="img-responsive" src="images/1-4 AV.jpg" alt="Audiocinema-art"></a>
+	      </div>
+	     <div class="col-md-2"></div>
+      </div>
+      <div class="row moveDown">
+      	<div class="col-md-2"></div>
+	      <div class="col-md-8">
+	          <a href="#link1"><img class="img-responsive" src="images/2-4 HE.jpg" alt="Audiocinema-art"></a>
+	      </div>
+	     <div class="col-md-2"></div>
+      </div>
+      <div class="row moveDown">
+      	<div class="col-md-2"></div>
+	      <div class="col-md-8">
+	          <a href="#link1"><img class="img-responsive" src="images/3-4 MG.jpg" alt="Audiocinema-art"></a>
+	      </div>
+	      <div class="col-md-2"></div>
+      </div>
+      <div class="row moveDown">
+      	<div class="col-md-2"></div>
+	      <div class="col-md-8">
+	          <a href="#link1"><img class="img-responsive" src="images/4-4 C.jpg" alt="Audiocinema-art"></a>
+	      </div>
+	     <div class="col-md-2"></div>
       </div>
 
       <div class="row subcontent"></div>
