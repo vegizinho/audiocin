@@ -29,19 +29,21 @@
 <!-- Custom styles for this template -->
 <link href="css/carousel.css" rel="stylesheet">
 <link href="css/main.css" rel="stylesheet">
+
 </head>
 
 <body>
 
-	<div class="topmenu">
+	<div class="row topmenu">
 
-		<div class="col-md-3">LOGO</div>
-		<div class="col-md-3 pullRight">TRGOVINE | O NAMA | SERVISI</div>
-		<div class="col-md-3 pullLeft">STORES | ABOUT US | SERVICES</div>
-		<div class="col-md-3">TRAZILICA</div>
+		<div class="col-md-3"><img class="logoPosition img-responsive" src="images/audiocinema-art-logo.jpg"></div>
+		<div class="col-md-4 pullRight"><a href="trgovine">TRGOVINE</a> | <a href="trgovine">O NAMA</a> | <a href="trgovine">SERVISI</a> | <a href="trgovine">EVENTI</a></div>
+		<div class="col-md-3 pullLeft"><a href="trgovine">STORES</a> | <a href="trgovine">ABOUT US</a> | <a href="trgovine">REPAIRS</a></div>
+		<div class="col-md-2">TRAŽILICA</div>
 
 	</div>
-
+	
+	<div class="row carousel">
 	<div id="carousel-generic" class="carousel slide" data-ride="carousel">
 		<!-- Indicators -->
 		<ol class="carousel-indicators">
@@ -199,9 +201,6 @@
 
 
 
-
-
-
 		</div>
 
 		<!-- Controls -->
@@ -210,6 +209,7 @@
 		</a> <a class="right carousel-control" href="#carousel-generic"
 			data-slide="next"> <span class="glyphicon glyphicon-chevron-right"></span>
 		</a>
+	</div>
 	</div>
 
 	<div class="container marketing">
@@ -247,33 +247,76 @@
 			</div>
 			<div class="col-md-2"></div>
 		</div>
-
-		<div class="row subcontent"></div>
-
-	</div>
-
-
-	<div class="overfooter">
-		<h2>Ovo je zavrsna aplikacija po cijeloj sirini, da se izjednaci s
-			karuselom</h2>
-		<p>Ovdje mozemo staviti nesto teksta, facebook like box, twitter box,
-			prijavu na newsletter i slican sadrzaj, kao i pregled glavnih linkova
-			nekim manjim sitnijim fontom.</p>
 	</div>
 
 	<!-- FOOTER -->
+	<div class="row orange">
 	<div class="container">
-		<footer>
-			<p class="pull-right">
-				<a href="#">Back to top</a>
-			</p>
-			<p>
-				&copy; 2014 Company, Inc. &middot; <a href="#">Privacy</a> &middot;
-				<a href="#">Terms</a>
-			</p>
-		</footer>
+			<div class="col-md-3">
+				<div class="title">AUDIO CINEMA ART ZAGREB</div>
+				<ul class="lali">
+					<li>MESNIČKA 9</li>
+					<li>TELEFON: +385 (0)1 4847 875</li>
+					<li>FAX: +385 (0)1 4847 874</li>
+					<li>INFO@AUDIOCINEMA-ART.HR</li>
+				</ul>
+			</div>
+			<div class="col-md-3">
+				<div class="title">RADNO VRIJEME</div>
+					<ul class="lali">
+						<li>PONEDJELJAK-PETAK OD 9:00 DO 20:00 h</li>
+						<li>SUBOTA OD 9.30 DO 14.30 h</li>
+					</ul>
+				</div>
+			<div class="col-md-3">
+				<div class="title">OVLAŠTENI PARTNER</div>
+				<ul class="lali">
+					<li>ROBERTOSHOP</li>
+					<li>WWW.ROBERTOSHOP.HR</li>
+				</ul>
+				<div class="title">INOZEMNI PARTNERI</div>
+				<ul class="lali">
+					<li>SLOVENIJA - TIFT D.O.O, LJUBLJANA</li>
+					<li>SRBIJA/CRNA GORA - 4 AUDIO D.O.O, BEOGRAD</li>
+					<li>SRBIJA - VOX TRADE, BEOGRAD</li>
+				</ul>
+			</div>
+			<div class="col-md-3">
+				<div class="title"><img src="images/social-icons.png"></div>
+			</div>
 	</div>
-
+	</div>
+	<div class="row overfooter">
+	<div class="container bottomMenu">
+			
+		<div class="col-md-4"><a href="trgovine">TRGOVINE</a> | <a href="trgovine">O NAMA</a> | <a href="trgovine">SERVISI</a> | <a href="trgovine">EVENTI</a></div>
+		<div class="col-md-4"><a href="trgovine">STORES</a> | <a href="trgovine">ABOUT US</a> | <a href="trgovine">REPAIRS</a></div>
+		<div class="col-md-2 pullRight"> </div>
+		<div class="col-md-2 pullRight">TRAŽILICA</div>
+	
+	</div>
+	</div>
+	
+	<div class="row footer">
+	<div class="container">
+	
+	
+		<div class="col-md-10">AUDIO CINEMA ART - THE HIGH-END COMPANY | <a href="trgovine">SITE INFO</a> | <a href="trgovine">PRAVNE NAPOMENE</a> | <a href="trgovine">PRODUKCIJA</a></div>
+		<div class="col-md-2 pullRight"><img class="img-responsive" src="images/aca-logo.png"></div>
+<!-- 		<div class="col-md-4"><a href="trgovine">STORES</a> | <a href="trgovine">ABOUT US</a> | <a href="trgovine">REPAIRS</a></div> -->
+<!-- 		<div class="col-md-2 pullRight"> </div> -->
+<!-- 		<div class="col-md-2 pullRight">TRAŽILICA</div> -->
+	
+	
+<!-- 			<p class="pull-right"> -->
+<!-- 				<a href="#">Back to top</a> -->
+<!-- 			</p> -->
+<!-- 			<p> -->
+<!-- 				&copy; 2014 Company, Inc. &middot; <a href="#">Privacy</a> &middot; -->
+<!-- 				<a href="#">Terms</a> -->
+<!-- 			</p> -->
+	</div>
+	</div>
 
 	<!-- Bootstrap core JavaScript
     ================================================== -->

@@ -1,9 +1,17 @@
 @CHARSET "UTF-8";
 
+@import url(http://fonts.googleapis.com/css?family=Pathway+Gothic+One&subset=latin,latin-ext);
 
 body
 {
-	background-color: #000;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+	
+	background: url('../images/footer-bg.png');
+	background-repeat: repeat-x;
+	background-position: bottom;
+	background-color: #323232;
 }
 
 .topmenu
@@ -11,9 +19,20 @@ body
 	padding: 16px 0 2px 0;
 	width: 100%;
 	height: 60px;
-	background-color: #333333;
+	background-color: #1c1c1c;
 	text-align: center;
 }
+
+.topmenu a { color: #fff; text-decoration: none; }
+.topmenu a:hover { color: #ccc; }
+
+.footer { color: #fff; padding-top: 15px; }
+.footer a { color: #fff; text-decoration: none; }
+.footer a:hover { color: #ccc; }
+
+.bottomMenu { text-align: left; padding: 15px 0 15px 0; }
+.bottomMenu a { color: #fff; text-decoration: none; }
+.bottomMenu a:hover { color: #ccc; }
 
 .moveDown { padding-bottom: 30px; }
 
@@ -29,12 +48,30 @@ body
 {
 	height: 48px;
 }
-.overfooter
-{
-	padding: 2px 0 2px 0;
-	width: 100%;
-	background-color: #333333;
-	text-align: center;
+
+.row.topmenu { margin: 0 0 0 0; }
+.row.carousel { margin: 0 0 0 0; }
+
+.row.orange { margin: 0 0 0 0; }
+.orange 
+{ 
+	padding: 5px 0 5px 0;
+	background-color: #ec7501;
+	color: #fff;
 }
 
+.title { font-weight: bold; }
+
+
 .cent-approx { padding: 0 0 0 40px; }
+.lali ul, li { margin: 0; padding: 0; list-style: none; }
+.lali li { margin-left: -40px; }
+
+.row.overfooter { margin: 0 0 0 0; }
+
+
+.row.footer { margin: 0 0 0 0; }
+.footer { background: #1c1c1c; }
+.bgf { background: #1c1c1c; position: relative; }
+
+.logoPosition { position: relative; top: -10px; left: 20px; }
